@@ -4,7 +4,7 @@ retrofit2 + rxjava2 下载文件
 Step 1. Add the JitPack repository to your build file
 
   allprojects {
-		repositories {
+  	repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
