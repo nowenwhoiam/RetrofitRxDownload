@@ -31,6 +31,10 @@ public class HttpMethods {
         return HttpMethodsHolder.INSTANCE;
     }
 
+    public void init(){
+        init(null,"http://www.baseurl.com");
+    }
+
     public void init(Context context,String baseUrl) {
         OkHttpClient client = new OkHttpClient()
                 .newBuilder()

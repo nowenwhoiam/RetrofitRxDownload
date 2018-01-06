@@ -12,6 +12,6 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        HttpMethods.getInstance().init(this,"http://www.baidu.com");
+        HttpMethods.getInstance().init();
     }
 }
