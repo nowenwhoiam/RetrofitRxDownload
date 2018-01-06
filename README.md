@@ -14,6 +14,6 @@ allprojects {
  
 ```
 dependencies {
-	        compile 'com.github.Chenayi:RetrofitRxDownload:1.0.1'
+	        compile 'com.github.Chenayi:RetrofitRxDownload:1.0.2'
 	}
 ```
