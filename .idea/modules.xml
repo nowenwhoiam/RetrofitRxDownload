@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RetrofitRxDownload.iml" filepath="$PROJECT_DIR$/RetrofitRxDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdownloadlib/retrofitdownloadlib.iml" filepath="$PROJECT_DIR$/retrofitdownloadlib/retrofitdownloadlib.iml" />
+    </modules>
+  </component>
+</project>
